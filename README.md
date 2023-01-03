@@ -10,7 +10,7 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=3CA6DF&size=35&center=true&v
   <img
     width="49%"
     height="195px"
-    src="https://github-readme-stats.vercel.app/api?username=amorimll&show_icons=true&count_private=true&hide_border=true&title_color=3CA6DF&icon_color=3CA6DF&text_color=c9d1d9&bg_color=0d1117"
+    src="https://github-readme-stats.vercel.app/api?username=amorïm&show_icons=true&count_private=true&hide_border=true&title_color=3CA6DF&icon_color=3CA6DF&text_color=c9d1d9&bg_color=0d1117"
     alt="Caroline Barbosa github stats"
   />
   <img
@@ -36,7 +36,7 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=3CA6DF&size=35&center=true&v
 </p>
 
 <div align="center">
-  <a href="mailto:cmp.1a.caroline@gmail.com">
+  <a href="mailto:gabrielmaia.amorim01@gmail.com">
     <img
       src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
       target="_blank"
