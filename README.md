@@ -20,6 +20,13 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=3CA6DF&size=35&center=true&v
   />
 </div>
 
+### Front end:
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,redux,materialui,tailwind,sass,webpack,styledcomponents)](https://skillicons.dev)
+### Back end:
+[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,express,nestjs,mongodb,mysql,postgres)](https://skillicons.dev)
+### Ferramentas e outros:
+[![My Skills](https://skillicons.dev/icons?i=vscode,docker,git,github,stackoverflow)](https://skillicons.dev)
+
 [![Ashutosh's github activity
 graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -45,12 +52,6 @@ graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00
   /></a>
 </div>
 
-### Front end:
-[![My Skills](https://skillicons.dev/icons?i=ts,js,react,redux,materialui,tailwind,sass,webpack,styledcomponents)](https://skillicons.dev)
-### Back end:
-[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,express,nestjs,mongodb,mysql,postgres)](https://skillicons.dev)
-### Ferramentas e outros:
-[![My Skills](https://skillicons.dev/icons?i=vscode,docker,git,github,stackoverflow)](https://skillicons.dev)
 
 <img
   width="100%"
