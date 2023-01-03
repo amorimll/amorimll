@@ -8,7 +8,7 @@
 </div>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
 
 <p align="center">
