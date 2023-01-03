@@ -13,11 +13,7 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=3CA6DF&size=35&center=true&v
     src="https://github-readme-stats.vercel.app/api?username=scush989898&show_icons=true&count_private=true&hide_border=true&title_color=3CA6DF&icon_color=3CA6DF&text_color=c9d1d9&bg_color=0d1117"
     alt="Gabriel Amorim github stats"
   />
-  <img
-    width="41%"
-    height="195px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=amorimll&layout=compact&hide_border=true&title_color=3CA6DF&text_color=3CA6DF&bg_color=0d1117"
-  />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amorimll&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ### Front end:
