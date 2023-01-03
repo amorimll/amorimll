@@ -27,8 +27,7 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=3CA6DF&size=35&center=true&v
 ### Ferramentas e outros:
 [![My Skills](https://skillicons.dev/icons?i=vscode,docker,git,github,stackoverflow)](https://skillicons.dev)
 
-[![Ashutosh's github activity
-graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![snake gif](https://github.com/amorimll/amorimll/blob/output/github-contribution-grid-snake.gif)
 
 <p align="center">
   <img
