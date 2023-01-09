@@ -16,7 +16,7 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=3CA6DF&size=35&center=true&v
 </div>
 
 ### Front end:
-[![My Skills](https://skillicons.dev/icons?i=ts,js,react,redux,materialui,tailwind,sass,styledcomponents, webpack)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,redux,materialui,tailwind,sass,styledcomponents,webpack)](https://skillicons.dev)
 ### Back end:
 [![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,express,nestjs,mongodb,mysql,postgres)](https://skillicons.dev)
 ### Ferramentas e outros:
