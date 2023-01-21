@@ -22,18 +22,14 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=3CA6DF&size=35&center=true&v
 ### Ferramentas e outros:
 [![My Skills](https://skillicons.dev/icons?i=vscode,docker,git,github)](https://skillicons.dev)
 
-[![Ashutosh's github activity
-graph](https://github-readme-activity-graph.cyclic.app/graph?username=amorimll&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <p align="center">
   <img
     src="https://github-profile-trophy.vercel.app/?username=amorimll&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"
   />
 </p>
 
-
 <div align="center">
-  <a href="mailto:cmp.1a.caroline@gmail.com">
+  <a href="mailto:gabrielmaia.amorim01@gmail.com">
     <img
       src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
       target="_blank"
@@ -48,3 +44,7 @@ graph](https://github-readme-activity-graph.cyclic.app/graph?username=amorimll&t
   /></a>
 </div>
 
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=3CA6DF&height=120&section=footer"
+/>
